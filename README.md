@@ -1,19 +1,19 @@
 # Le projet
 * **Nom :** RentManager
 * **Auteur :** Pauline Maître
-* **Date :** 03/04/220
+* **Date :** 03/04/2020
 
-## 		Description du projet
+## Description du projet
 L'objectif de ce projet est de construire un outil web de locations de véhicules. Il faut donc pouvoir ajouter, modifier et supprimer des clients, des véhicules et des réservations. L'utilisateur peut consulter les fiches détaillées des clients et des véhicules. Il peut aussi depuis la fiche d'un véhicule ajouter une réservation pour ce dernier.
 
-## 		Choix de conception
+## Choix de conception
 * Création d'une **Javadoc**, acccesible dans RentManager/doc/index.html
 * Optimisation de l'**UX** : utilisation de classes Bootstrap, responsivité du site, affichage adapatif
 * Pour faciliter la navigation entre les clients et les véhicules, des liens envoient sur les pages de détail des clients et véhicules depuis différentes pages
 * Pas de page de détails des Reservation car tous les détails sont déjà dans la page de liste des réservations
 * Création de **liens** depuis la page d'accueil vers les catégories utilisaeurs, véhicules et réservations
 
-## 		Améliorations possibles
+## Améliorations possibles
 * Création de comptes pour utiliser l'outil avec différents niveaux de droits d'ajout, modification et suppresion
 * Ajout de caractéristiques sur les voitures (photo, année de sortie, usure, caractéristiques techniques, ...)
 * Envoi de la réservation par email au client
