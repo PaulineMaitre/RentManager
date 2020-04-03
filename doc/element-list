@@ -1,0 +1,10 @@
+com.epf.RentManager
+com.epf.RentManager.classes
+com.epf.RentManager.controler
+com.epf.RentManager.controler.client
+com.epf.RentManager.controler.reservation
+com.epf.RentManager.controler.vehicle
+com.epf.RentManager.dao
+com.epf.RentManager.exceptions
+com.epf.RentManager.persistence
+com.epf.RentManager.service
